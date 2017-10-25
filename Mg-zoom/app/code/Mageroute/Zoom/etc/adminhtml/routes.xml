@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @author Mageroute Team
+ * @copyright Copyright (c) 2015 Mageroute (http://www.Mageroute.com)
+ * @package Mageroute_Zoom
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../../lib/internal/Magento/Framework/App/etc/routes.xsd">
+    <router id="admin">
+        <route id="Mageroute_zoom" frontName="Mageroute_zoom">
+            <module name="Mageroute_Zoom" />
+        </route>
+    </router>
+</config>
